@@ -1,22 +1,22 @@
 # Aprender a Aprender en TripleTen
 
-# Después de completar con éxito el proyecto, si te queda algo de tiempo, te recomendamos que intentes hacer algunas otras cosas:
+ Después de completar con éxito el proyecto, si te queda algo de tiempo, te recomendamos que intentes hacer algunas otras cosas:
 
-# Agregar diferentes fuentes.
-# Agregar tus videos educativos favoritos.
-# Comprobar la compatibilidad cruzada del código y añadir todos los prefijos de proveedores necesarios.
-# Diseñar un formulario que permita a los usuarios y las usuarias enviar un comentario.
-# ¡Esperamos que te diviertas!
+ Agregar diferentes fuentes.
+ Agregar tus videos educativos favoritos.
+ Comprobar la compatibilidad cruzada del código y añadir todos los prefijos de proveedores necesarios.
+ Diseñar un formulario que permita a los usuarios y las usuarias enviar un comentario.
+ ¡Esperamos que te diviertas!
 
 
-# Escribir el archivo README
-# Asegúrate de crear un archivo README.md en el directorio raíz del sitio web.
+ Escribir el archivo README
+ Asegúrate de crear un archivo README.md en el directorio raíz del sitio web.
 
-# Debería incluir la siguiente información:
+ Debería incluir la siguiente información:
 
-# Nombre del proyecto.
-# Descripción del proyecto. Describe la funcionalidad, así como las tecnologías utilizadas.
-# Planes para finalizar el proyecto, si los hay. Agrega detalles específicos. En lugar de simplemente escribir "refactorizar código", escribe algo como "corregir X con Y para obtener Z". Cuanto más detalles, mejor.
+ Nombre del proyecto.
+ Descripción del proyecto. Describe la funcionalidad, así como las tecnologías utilizadas.
+ Planes para finalizar el proyecto, si los hay. Agrega detalles específicos. En lugar de simplemente escribir "refactorizar código", escribe algo como "corregir X con Y para obtener Z". Cuanto más detalles, mejor.
 
 Título: 
 
